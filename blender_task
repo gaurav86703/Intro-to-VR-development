@@ -1,0 +1,43 @@
+Final Blender Scene – 3D Environment Design
+
+📌 Project Overview
+
+This project showcases a basic 3D environment created using Blender as part of the IEEE VR Workshop. The goal was to understand the fundamentals of 3D modeling, object placement, and scene composition.
+
+The scene consists of simple geometric objects such as cubes, spheres, and planes, combined to form a visually structured environment. Basic lighting and camera positioning were also applied to enhance the overall presentation.
+
+🎯 Objectives
+
+Learn the Blender interface and navigation in 3D space
+Understand object creation and transformations (Move, Rotate, Scale)
+Apply basic materials and lighting
+Create and render a complete 3D scene
+🛠️ Tools & Technologies Used
+
+Blender (3D Modeling & Rendering)
+GitHub (Project hosting and version control)
+🧱 Project Components
+
+Cube – Used as the base structure or object
+Sphere – Added to enhance visual complexity
+Plane – Used as ground surface
+Lighting Setup – Basic light source for rendering
+Camera Setup – Positioned to capture the final scene
+📷 Screenshots
+
+📸 Screenshots
+Scene
+
+📚 Learning Experience
+
+This workshop helped me gain hands-on experience with Blender and understand the workflow of 3D scene creation. I learned how to navigate in a 3D environment, manipulate objects, and apply transformations effectively.
+
+I also explored how lighting and camera angles affect the final render. Overall, this project strengthened my interest in 3D design and virtual reality development.
+
+🚀 Conclusion
+
+The project successfully demonstrates the basics of 3D modeling and scene creation. It serves as a strong foundation for more advanced topics such as animation, texturing, and VR environment development.
+
+🔗 Submission
+
+This repository is submitted as part of the IEEE VR Workshop Day 4 Task.
